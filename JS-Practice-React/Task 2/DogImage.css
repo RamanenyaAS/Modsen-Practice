@@ -1,0 +1,16 @@
+.dog-container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dog-container__title{
+  font-size: 24px;
+  padding: 30px;
+}
+
+.dog-container__image{
+  max-width: fit-content;
+  max-height: 600px;
+}
